@@ -1,28 +1,42 @@
+h1 {
+    colorred
+    text-align: center;
+    outline-color: yellow;
+    outline-widht: 40px;
+    border: 23px solid black;
+    position: static;
+}
+
 .paragraph-1 {
-    background-color: lightgreen;
-    font-size: 34px;
+    background: lightgreen;
     color: white;
+    font-size: 34px;
 }
 
 .paragraph-2 {
     border: 20px groove yellow;
-    border-radius: 7px;
+    border-radius: 10px;
     font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    margin-left: 40 px;
+    padding-top: 40px;
+    padding-bottom: 45px;
+    padding-left: 70px;
+    padding-right: 70px;
+
 
 }
 
 .paragraph-3 {
-    font-weight: bold;
-    font-size: 22px;
-    font-family: Monaco;
-    font-style: italic;
+    font: italic small-caps bold 20px Arial, sans-serif
 
 }
 
 .paragraph-4 {
     font-style: italic;
     text-align: center;
-    font-size: 22px;
+    font-size: 24px;
     text-shadow: 10px 2 px 2px green;
 
 }
