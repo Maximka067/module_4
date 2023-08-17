@@ -1,0 +1,28 @@
+.paragraph-1 {
+    background-color: lightgreen;
+    font-size: 34px;
+    color: white;
+}
+
+.paragraph-2 {
+    border: 20px groove yellow;
+    border-radius: 7px;
+    font-size: 20px;
+
+}
+
+.paragraph-3 {
+    font-weight: bold;
+    font-size: 22px;
+    font-family: Monaco;
+    font-style: italic;
+
+}
+
+.paragraph-4 {
+    font-style: italic;
+    text-align: center;
+    font-size: 22px;
+    text-shadow: 10px 2 px 2px green;
+
+}
